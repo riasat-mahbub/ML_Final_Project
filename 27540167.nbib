@@ -1,0 +1,84 @@
+PMID- 27540167
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160825
+LR  - 20191210
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 353
+IP  - 6301
+DP  - 2016 Aug 19
+TI  - Combining satellite imagery and machine learning to predict poverty.
+PG  - 790-4
+LID - 10.1126/science.aaf7894 [doi]
+AB  - Reliable data on economic livelihoods remain scarce in the developing world, 
+      hampering efforts to study these outcomes and to design policies that improve 
+      them. Here we demonstrate an accurate, inexpensive, and scalable method for 
+      estimating consumption expenditure and asset wealth from high-resolution 
+      satellite imagery. Using survey and satellite data from five African 
+      countries--Nigeria, Tanzania, Uganda, Malawi, and Rwanda--we show how a 
+      convolutional neural network can be trained to identify image features that can 
+      explain up to 75% of the variation in local-level economic outcomes. Our method, 
+      which requires only publicly available data, could transform efforts to track and 
+      target poverty in developing countries. It also demonstrates how powerful machine 
+      learning techniques can be applied in a setting with limited training data, 
+      suggesting broad potential application across many scientific domains.
+CI  - Copyright © 2016, American Association for the Advancement of Science.
+FAU - Jean, Neal
+AU  - Jean N
+AD  - Department of Computer Science, Stanford University, Stanford, CA, USA. 
+      Department of Electrical Engineering, Stanford University, Stanford, CA, USA.
+FAU - Burke, Marshall
+AU  - Burke M
+AD  - Department of Earth System Science, Stanford University, Stanford, CA, USA. 
+      Center on Food Security and the Environment, Stanford University, Stanford, CA, 
+      USA. National Bureau of Economic Research, Boston, MA, USA. mburke@stanford.edu.
+FAU - Xie, Michael
+AU  - Xie M
+AD  - Department of Computer Science, Stanford University, Stanford, CA, USA.
+FAU - Davis, W Matthew
+AU  - Davis WM
+AD  - Center on Food Security and the Environment, Stanford University, Stanford, CA, 
+      USA.
+FAU - Lobell, David B
+AU  - Lobell DB
+AD  - Department of Earth System Science, Stanford University, Stanford, CA, USA. 
+      Center on Food Security and the Environment, Stanford University, Stanford, CA, 
+      USA.
+FAU - Ermon, Stefano
+AU  - Ermon S
+AD  - Department of Computer Science, Stanford University, Stanford, CA, USA.
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+SB  - IM
+CIN - Science. 2016 Aug 19;353(6301):753-4. PMID: 27540154
+MH  - Developing Countries/*economics
+MH  - Humans
+MH  - *Income
+MH  - *Machine Learning
+MH  - Malawi
+MH  - Nigeria
+MH  - Poverty/*economics
+MH  - Rwanda
+MH  - Satellite Imagery/*methods
+MH  - Tanzania
+MH  - Uganda
+EDAT- 2016/08/20 06:00
+MHDA- 2016/08/26 06:00
+CRDT- 2016/08/20 06:00
+PHST- 2016/03/30 00:00 [received]
+PHST- 2016/07/06 00:00 [accepted]
+PHST- 2016/08/20 06:00 [entrez]
+PHST- 2016/08/20 06:00 [pubmed]
+PHST- 2016/08/26 06:00 [medline]
+AID - 353/6301/790 [pii]
+AID - 10.1126/science.aaf7894 [doi]
+PST - ppublish
+SO  - Science. 2016 Aug 19;353(6301):790-4. doi: 10.1126/science.aaf7894.
